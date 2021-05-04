@@ -5,7 +5,7 @@
 
 ``` {r}
 library(devtools)
-install_github("elnazmirzaei/FIESTA")
+install_github("TheSpikeLab/FIESTA")
 library(FIESTA)
 library(NMF)
 library(mixtools)
